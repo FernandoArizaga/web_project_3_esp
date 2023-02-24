@@ -13,6 +13,6 @@ El proyecto consiste en una pagina Web donde muestra las ciudades natales de alg
 
 Utilizamos codigo Html y Css, manteniendo siempre una estructura para los nombres de los bloques, elementos , modificadores utilizando la metodolgis BEM
 
-** Enlace al proyecto
+**Enlace al proyecto
 
 (https://fernandoarizaga.github.io/web_project_3_esp/)  
