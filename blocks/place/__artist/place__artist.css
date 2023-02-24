@@ -1,0 +1,12 @@
+.place__artist {
+    grid-area: artist;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.52px;
+    color: #AAAAAA;
+    margin-bottom: 0;
+}
+
+.place__artist-wrapper {
+    align-self: center;
+}
