@@ -15,4 +15,4 @@ Utilizamos codigo Html y Css, manteniendo siempre una estructura para los nombre
 
 ** Enlace al proyecto
 
-(https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
+(https://fernandoarizaga.github.io/web_project_3_esp/)  
