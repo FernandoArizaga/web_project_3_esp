@@ -1,6 +1,7 @@
 .place__image {
   grid-area: image;
   overflow: hidden;
+  max-width: 450px;
 }
 
 .place__image img {
