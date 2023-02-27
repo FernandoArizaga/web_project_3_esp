@@ -8,9 +8,9 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/intro/__text-a/intro__text-a.css);
-@import url(../blocks/intro/__text-b/intro__text-b.css);
-@import url(../blocks/intro/__text-c/intro__text-c.css);
+@import url(../blocks/intro/__text-autor/intro__text-autor.css);
+@import url(../blocks/intro/__text-descripcion/intro__text-descripcion.css);
+@import url(../blocks/intro/__text-frase/intro__text-frase.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/lead/__image/lead__image.css);

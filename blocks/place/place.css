@@ -26,9 +26,12 @@
         "image"
         "text"
         "button";
-      place-items: center;
     }
     .place__image {
       max-width: 100%;
+    }
+
+    .places {
+      width: auto;
     }
   }
